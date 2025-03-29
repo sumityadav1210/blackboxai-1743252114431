@@ -1,0 +1,10 @@
+{
+    "require": {
+        "ezyang/htmlpurifier": "^4.16",
+        "components/jquery": "^3.6",
+        "twbs/bootstrap": "^5.2"
+    },
+    "config": {
+        "vendor-dir": "vendor"
+    }
+}
